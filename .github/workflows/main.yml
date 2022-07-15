@@ -10,6 +10,6 @@ jobs:
         uses: lekterable/inclusive-organization-action@v1.1.0
         with:
           organization: DeCodeCafe Community
-          comment: Thank you so much for your contribution! Your Contribution is very important to us!
+          comment: Your contribution is greatly appreciated! We value your contribution very much!
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
